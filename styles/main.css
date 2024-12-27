@@ -9,3 +9,43 @@ body {
   width: 125px;
   height: 125px;
 }
+
+.main-btn{
+  background-color: #0DCAF0;
+}
+
+
+.main-btn:hover{
+  background-color: #0DCAF0;
+}
+
+.hero-text {
+  color: #00ffff;
+  font-size: 70px;
+}
+
+.hero-icons {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
+.hero-icons a {
+  color: #00ffff;
+  font-size: 30px;
+}
+
+.heading-text {
+  color: #00ffff;
+}
+
+.p-bg {
+  background-color: #6c757d;
+}
+
+.input-p::placeholder {
+  color: gray;
+  text-align: center;
+}
